@@ -1,0 +1,27 @@
+header {
+    background-color: blue;
+}
+
+nav{
+    background-color: chartreuse;
+    width: 30%;
+    padding: 0.5%;
+
+}
+ul{
+    background-color: aqua;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+li{
+    background-color: crimson;
+}
+.btn-claro{
+    display: none;
+}
+main{
+    background-color: darkgreen;
+}
